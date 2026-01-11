@@ -2,4 +2,4 @@ Ping Pong Game
 Developed/Replicated a simple game called ping-pong.
 
 #Tech Stack
-1. Python
+1. Python, Turtle library
